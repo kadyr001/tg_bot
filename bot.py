@@ -9,6 +9,7 @@ from telegram.ext import (
 
 # ========== НАСТРОЙКИ ==========
 TOKEN = "8786752434:AAH7Ic141c5hQL9m5Efs8XtkMVEM-F3FVk8"
+TOKEN = os.environ.get("BOT_TOKEN")
 ADMIN_ID =  8101311780        # Замени на свой Telegram ID (узнать у @userinfobot)
 ADMIN_USERNAME = "твой_username"  # Замени на свой username без @
 
