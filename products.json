@@ -1,0 +1,381 @@
+{
+  "wallpaper": {
+    "name": "🖼 Обои",
+    "items": [
+      {
+        "id": "w1",
+        "name": "Обои виниловые однотонные",
+        "price_retail": 350,
+        "price_wholesale": 250,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "w2",
+        "name": "Обои флизелиновые с узором",
+        "price_retail": 500,
+        "price_wholesale": 380,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "w3",
+        "name": "Обои бумажные (эконом)",
+        "price_retail": 180,
+        "price_wholesale": 130,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "w4",
+        "name": "Фотообои 3D",
+        "price_retail": 1200,
+        "price_wholesale": 900,
+        "unit": "комплект",
+        "photo": null
+      },
+      {
+        "id": "w5",
+        "name": "Обои текстильные",
+        "price_retail": 750,
+        "price_wholesale": 580,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "w6",
+        "name": "Обои под покраску",
+        "price_retail": 420,
+        "price_wholesale": 310,
+        "unit": "рулон",
+        "photo": null
+      }
+    ]
+  },
+  "selfadhesive": {
+    "name": "🪄 Самоклеящиеся обои",
+    "items": [
+      {
+        "id": "sa1",
+        "name": "Самоклейка 60x60 см однотонная",
+        "price_retail": 80,
+        "price_wholesale": 55,
+        "unit": "лист",
+        "photo": null
+      },
+      {
+        "id": "sa2",
+        "name": "Самоклейка 60x60 см мрамор/камень",
+        "price_retail": 95,
+        "price_wholesale": 68,
+        "unit": "лист",
+        "photo": null
+      },
+      {
+        "id": "sa3",
+        "name": "Самоклейка 60x60 см дерево",
+        "price_retail": 90,
+        "price_wholesale": 65,
+        "unit": "лист",
+        "photo": null
+      },
+      {
+        "id": "sa4",
+        "name": "Самоклейка рулон 120 см x 3 м",
+        "price_retail": 350,
+        "price_wholesale": 250,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "sa5",
+        "name": "Самоклейка рулон 120 см x 5 м",
+        "price_retail": 550,
+        "price_wholesale": 400,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "sa6",
+        "name": "Самоклейка рулон 120 см x 10 м",
+        "price_retail": 950,
+        "price_wholesale": 720,
+        "unit": "рулон",
+        "photo": null
+      }
+    ]
+  },
+  "tinting": {
+    "name": "🌫 Самоклеящаяся тонировка",
+    "items": [
+      {
+        "id": "t1",
+        "name": "Тонировка светлая 50 см x 3 м",
+        "price_retail": 280,
+        "price_wholesale": 200,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "t2",
+        "name": "Тонировка средняя 50 см x 3 м",
+        "price_retail": 300,
+        "price_wholesale": 215,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "t3",
+        "name": "Тонировка тёмная 50 см x 3 м",
+        "price_retail": 300,
+        "price_wholesale": 215,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "t4",
+        "name": "Тонировка зеркальная 50 см x 3 м",
+        "price_retail": 380,
+        "price_wholesale": 280,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "t5",
+        "name": "Тонировка матовая белая 50 см x 3 м",
+        "price_retail": 350,
+        "price_wholesale": 260,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "t6",
+        "name": "Тонировка рулон 100 см x 5 м",
+        "price_retail": 750,
+        "price_wholesale": 560,
+        "unit": "рулон",
+        "photo": null
+      }
+    ]
+  },
+  "paint": {
+    "name": "🎨 Краски",
+    "items": [
+      {
+        "id": "p1",
+        "name": "Краска водоэмульсионная белая 3 кг",
+        "price_retail": 380,
+        "price_wholesale": 280,
+        "unit": "банка",
+        "photo": null
+      },
+      {
+        "id": "p2",
+        "name": "Краска водоэмульсионная белая 10 кг",
+        "price_retail": 1100,
+        "price_wholesale": 820,
+        "unit": "банка",
+        "photo": null
+      },
+      {
+        "id": "p3",
+        "name": "Краска интерьерная цветная 3 кг",
+        "price_retail": 450,
+        "price_wholesale": 340,
+        "unit": "банка",
+        "photo": null
+      },
+      {
+        "id": "p4",
+        "name": "Краска фасадная 10 кг",
+        "price_retail": 1400,
+        "price_wholesale": 1050,
+        "unit": "банка",
+        "photo": null
+      },
+      {
+        "id": "p5",
+        "name": "Краска для потолка белая 5 кг",
+        "price_retail": 620,
+        "price_wholesale": 460,
+        "unit": "банка",
+        "photo": null
+      },
+      {
+        "id": "p6",
+        "name": "Эмаль алкидная белая/цветная 1 кг",
+        "price_retail": 280,
+        "price_wholesale": 200,
+        "unit": "банка",
+        "photo": null
+      }
+    ]
+  },
+  "glue": {
+    "name": "🧴 Клей для обоев",
+    "items": [
+      {
+        "id": "g1",
+        "name": "Клей универсальный 250 г",
+        "price_retail": 120,
+        "price_wholesale": 85,
+        "unit": "пачка",
+        "photo": null
+      },
+      {
+        "id": "g2",
+        "name": "Клей для флизелина 500 г",
+        "price_retail": 220,
+        "price_wholesale": 160,
+        "unit": "пачка",
+        "photo": null
+      },
+      {
+        "id": "g3",
+        "name": "Клей виниловый 500 г",
+        "price_retail": 200,
+        "price_wholesale": 150,
+        "unit": "пачка",
+        "photo": null
+      },
+      {
+        "id": "g4",
+        "name": "Клей усиленный тяжёлые обои 500 г",
+        "price_retail": 260,
+        "price_wholesale": 190,
+        "unit": "пачка",
+        "photo": null
+      },
+      {
+        "id": "g5",
+        "name": "Клей оптом упаковка 10 пачек",
+        "price_retail": 1800,
+        "price_wholesale": 1300,
+        "unit": "упаковка",
+        "photo": null
+      }
+    ]
+  },
+  "tools": {
+    "name": "🖌 Валики и инструменты",
+    "items": [
+      {
+        "id": "r1",
+        "name": "Валик поролоновый 18 см",
+        "price_retail": 120,
+        "price_wholesale": 85,
+        "unit": "шт",
+        "photo": null
+      },
+      {
+        "id": "r2",
+        "name": "Валик велюровый 18 см",
+        "price_retail": 180,
+        "price_wholesale": 130,
+        "unit": "шт",
+        "photo": null
+      },
+      {
+        "id": "r3",
+        "name": "Валик прижимной для обоев 10 см",
+        "price_retail": 90,
+        "price_wholesale": 65,
+        "unit": "шт",
+        "photo": null
+      },
+      {
+        "id": "r4",
+        "name": "Кисть малярная 50 мм",
+        "price_retail": 80,
+        "price_wholesale": 55,
+        "unit": "шт",
+        "photo": null
+      },
+      {
+        "id": "r5",
+        "name": "Кисть радиаторная для батарей",
+        "price_retail": 110,
+        "price_wholesale": 80,
+        "unit": "шт",
+        "photo": null
+      },
+      {
+        "id": "r6",
+        "name": "Шпатель металлический 10 см",
+        "price_retail": 70,
+        "price_wholesale": 50,
+        "unit": "шт",
+        "photo": null
+      },
+      {
+        "id": "r7",
+        "name": "Шпатель металлический 30 см",
+        "price_retail": 130,
+        "price_wholesale": 95,
+        "unit": "шт",
+        "photo": null
+      },
+      {
+        "id": "r8",
+        "name": "Малярный скотч 50 м",
+        "price_retail": 60,
+        "price_wholesale": 40,
+        "unit": "рулон",
+        "photo": null
+      },
+      {
+        "id": "r9",
+        "name": "Малярная плёнка защитная",
+        "price_retail": 150,
+        "price_wholesale": 110,
+        "unit": "рулон",
+        "photo": null
+      }
+    ]
+  },
+  "primer": {
+    "name": "🪣 Грунтовка и шпаклёвка",
+    "items": [
+      {
+        "id": "pr1",
+        "name": "Грунтовка универсальная 5 л",
+        "price_retail": 480,
+        "price_wholesale": 360,
+        "unit": "канистра",
+        "photo": null
+      },
+      {
+        "id": "pr2",
+        "name": "Грунтовка глубокого проникновения 10 л",
+        "price_retail": 850,
+        "price_wholesale": 640,
+        "unit": "канистра",
+        "photo": null
+      },
+      {
+        "id": "pr3",
+        "name": "Шпаклёвка финишная 5 кг",
+        "price_retail": 350,
+        "price_wholesale": 260,
+        "unit": "ведро",
+        "photo": null
+      },
+      {
+        "id": "pr4",
+        "name": "Шпаклёвка финишная 20 кг",
+        "price_retail": 1100,
+        "price_wholesale": 820,
+        "unit": "мешок",
+        "photo": null
+      },
+      {
+        "id": "pr5",
+        "name": "Шпаклёвка стартовая 20 кг",
+        "price_retail": 900,
+        "price_wholesale": 670,
+        "unit": "мешок",
+        "photo": null
+      }
+    ]
+  }
+}
